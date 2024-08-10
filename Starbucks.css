@@ -70,7 +70,7 @@ body{
     height: 25px;
     background: white;
     font-weight: 700;
-    margin-left: 68px;
+    margin-left: 55px;
     margin-top: 50px;
     cursor: pointer;  
 }
@@ -92,7 +92,7 @@ button:hover{
     background: white;
     font-weight: 700;
     cursor: pointer;
-    margin-left: 80px;
+    margin-left: 35px;
     color: white;
     background: black;
 }
